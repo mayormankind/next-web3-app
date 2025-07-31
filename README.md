@@ -1,1 +1,0 @@
-# next-web3-app
